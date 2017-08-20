@@ -1,41 +1,41 @@
 body {
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	font-size: 100%;
-	background-color: LightGoldenrodYellow;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 100%;
+    background-color: LightGoldenrodYellow;
 }
 
 h2 {
-	margin: 0em;
-	padding: .5em;
+    margin: 0em;
+    padding: .5em;
 }
 
 p {
-	margin: 0em;
-	padding-left: .5em;
-	padding-right: .5em;
+    margin: 0em;
+    padding-left: .5em;
+    padding-right: .5em;
 }
 
 .section {
-	padding-bottom: 1em;
-	max-width: 60em;
-	margin-left: auto;
-	margin-right: auto;
-	overflow: auto;
-	color: MidnightBlue;
+    padding-bottom: 1em;
+    max-width: 60em;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+    color: MidnightBlue;
 }
 
 .header {
-	text-align: center;
-	color: GoldenRod;
-	background-color: MidnightBlue;
-	font-size: 2em;
-	padding-top: .5em;
-	padding-bottom: 2em;
+    text-align: center;
+    color: GoldenRod;
+    background-color: MidnightBlue;
+    font-size: 2em;
+    padding-top: .5em;
+    padding-bottom: 2em;
 }
 
 img.right_side {
-	float: right;
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-bottom: 10px;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
